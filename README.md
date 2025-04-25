@@ -33,9 +33,3 @@ Você pode modificar este projeto base para:
 - Escrever novos testes no diretório test/
 - Adicionar scripts de automação no diretório scripts/
 - Integrar com front-end usando React, Next.js ou qualquer framework
- 
- 
-## ✍️ Autor
- 
-Desenvolvido por Roberto Pimentel
-GitHub: beto-rocha-blockchain
