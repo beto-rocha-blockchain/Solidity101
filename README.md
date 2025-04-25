@@ -26,16 +26,20 @@ Este projeto foi inicializado com a estrutura básica do HardHat, contendo:
 - [Chai](https://www.chaijs.com/) (para testes)
 - [Ethers.js](https://docs.ethers.io/)
  
-## 📂 Estrutura do Projeto
+## 🧠 Expanda!
  
-```plaintext
-solidity-hardhat-base/
-├── contracts/               # Contratos inteligentes em Solidity
-│   └── ExampleContract.sol
-├── scripts/                 # Scripts para deploy e interação
-│   └── deploy.js
-├── test/                    # Testes automatizados
-│   └── ExampleContract.test.js
-├── hardhat.config.js        # Configuração do HardHat
-├── package.json             # Dependências do projeto
-└── README.md                # Documentação
+Você pode modificar este projeto base para:
+ 
+Criar novos contratos no diretório contracts/
+ 
+Escrever novos testes no diretório test/
+ 
+Adicionar scripts de automação no diretório scripts/
+ 
+Integrar com front-end usando React, Next.js ou qualquer framework
+ 
+ 
+## ✍️ Autor
+ 
+Desenvolvido por Roberto Pimentel
+GitHub: beto-rocha-blockchain
