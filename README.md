@@ -29,14 +29,10 @@ Este projeto foi inicializado com a estrutura básica do HardHat, contendo:
 ## 🧠 Expanda!
  
 Você pode modificar este projeto base para:
- 
-Criar novos contratos no diretório contracts/
- 
-Escrever novos testes no diretório test/
- 
-Adicionar scripts de automação no diretório scripts/
- 
-Integrar com front-end usando React, Next.js ou qualquer framework
+- Criar novos contratos no diretório contracts/
+- Escrever novos testes no diretório test/
+- Adicionar scripts de automação no diretório scripts/
+- Integrar com front-end usando React, Next.js ou qualquer framework
  
  
 ## ✍️ Autor
